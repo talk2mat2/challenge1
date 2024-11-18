@@ -1,0 +1,14 @@
+C:\Users\martins\source\repos\challenge\challenge\bin\Debug\net8.0\challenge.exe
+C:\Users\martins\source\repos\challenge\challenge\bin\Debug\net8.0\challenge.deps.json
+C:\Users\martins\source\repos\challenge\challenge\bin\Debug\net8.0\challenge.runtimeconfig.json
+C:\Users\martins\source\repos\challenge\challenge\bin\Debug\net8.0\challenge.dll
+C:\Users\martins\source\repos\challenge\challenge\bin\Debug\net8.0\challenge.pdb
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.AssemblyInfoInputs.cache
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.AssemblyInfo.cs
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.csproj.CoreCompileInputs.cache
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.dll
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\refint\challenge.dll
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.pdb
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\challenge.genruntimeconfig.cache
+C:\Users\martins\source\repos\challenge\challenge\obj\Debug\net8.0\ref\challenge.dll
